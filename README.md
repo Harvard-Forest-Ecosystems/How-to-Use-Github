@@ -67,6 +67,16 @@ No worries! Open GitHub Desktop. On the top bar click Repository. Then, click "S
 
 <img width="521" alt="Screen Shot 2023-06-05 at 2 26 15 PM" src="https://github.com/Harvard-Forest-Ecosystems/How-to-Use-Github/assets/70771598/f7c92224-fe07-4821-9c65-91ceef061ebb">
 
-**Note: To have GitHub track your changes, you have to have all of your code files in the repository folder on your computer and edit only those files. If you have more than one copy of the code file on your computer and edit one that is located outside of your repository's folder, GitHub won't be able to see the changes. 
+
+
+**Note: To have GitHub track your changes, you have to have all of your code files in the repository folder on your computer and edit only those files. If you have more than one copy of the code file on your computer and edit one that is located outside of your repository's folder, GitHub won't be able to see the changes.**
+
+
+# Glossary
+**Repository**: GitHub's version of a folder
+**Branch**: An offshoot that allows you to make changes to code without other people touching it. Good for collaboration and fixing bugs.
+**Commit**: Saving your edits. This is where you can add comments about the edits you made.
+**Push**: Uploading your edits to GitHub.
+**Pull**: Downloading the edits you or others have made to your local computer.
 
 
