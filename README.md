@@ -57,4 +57,5 @@ Open GitHub Desktop. Then click the box in the top right corner that says "Curre
 
 Then, click the "Add" button. This will bring up a dropdown menu of options. Click "Add Existing Repository." Navigate to the folder with your files in it. This folder has to be a GitHub repository!!! Otherwise, it will just tell you that it's not a repository.
 
+# Now that I'm set up, how do I access my code files?
 
