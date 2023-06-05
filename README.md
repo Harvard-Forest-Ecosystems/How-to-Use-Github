@@ -1,4 +1,5 @@
-# How to Use Github #### by Naomi
+# How to Use Github 
+#### by Naomi
 
 Welcome! Although I may not be the best source out there for all of your GitHub needs, I figured it would be helpful to make a straightforward how to guide for all of our new Harvard Forest users out there. There are plenty of sites that will walk you through this too, but they tend to be wordy and honestly, pretty boring. Hopefully I do a decent job at spicing things up and being straight to the point. 
 
@@ -68,14 +69,20 @@ No worries! Open GitHub Desktop. On the top bar click Repository. Then, click "S
 
 
 
+
+
 **Note: To have GitHub track your changes, you have to have all of your code files in the repository folder on your computer and edit only those files. If you have more than one copy of the code file on your computer and edit one that is located outside of your repository's folder, GitHub won't be able to see the changes.**
 
 
 # Glossary
 **Repository**: GitHub's version of a folder
+
 **Branch**: An offshoot that allows you to make changes to code without other people touching it. Good for collaboration and fixing bugs.
+
 **Commit**: Saving your edits. This is where you can add comments about the edits you made.
+
 **Push**: Uploading your edits to GitHub.
+
 **Pull**: Downloading the edits you or others have made to your local computer.
 
 
