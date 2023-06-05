@@ -29,4 +29,28 @@ To upload one of these files, first select the box to the left of the desired fi
 At the start of each coding session, it is best practice to go to GitHub desktop and **pull** your files. This means that the files on your desktop will be updated with the latest version that is on GitHub. So, if your RA coded while you were away, you can see their updated code right away. This also helps prevent two different versions of the same code file from existing, which will save you a headache later on. To pull, go to GitHub desktop and press the button that on my screen says "fetch origin." This is the same button used to push changes. If there is anything to pull, it will often say pull. 
 
 # This is all great Naomi, but how to I even set up GitHub Desktop??
-To be honest, I don't remember, but will write this section once I figure it out myself oops
+There are a few ways to go about this depending on where you are starting:
+
+## 1. You already have made a repository on GitHub or would like to make a repository through the GitHub website
+Make a repository on GitHub, if you haven't already. Feel free to add a ReadMe file to describe what your repository is for and put in any other relevant information. What you are reading now is an example of a ReadMe file. You can also make a repository through GitHub Desktop by following the directions below too.
+
+After the repository is made, open GitHub Desktop. Then click the box in the top right corner that says "Current Repository." A side bar should then come up as so:
+
+<img width="1142" alt="Screen Shot 2023-06-05 at 1 00 56 PM" src="https://github.com/Harvard-Forest-Ecosystems/How-to-Use-Github/assets/70771598/749c799b-f463-4a2f-8ee3-b140eaa1dc29">
+
+Then, click the "Add" button. This will bring up a dropdown menu of options. If the repository you would like to connect already exists, click "Clone Repository" and navigate to the repository you would like to work with in the pop-up box.
+
+## 2. You want to make a repository through GitHub Desktop
+Open GitHub Desktop. Then click the box in the top right corner that says "Current Repository." A side bar should then come up as so:
+
+<img width="1142" alt="Screen Shot 2023-06-05 at 1 00 56 PM" src="https://github.com/Harvard-Forest-Ecosystems/How-to-Use-Github/assets/70771598/749c799b-f463-4a2f-8ee3-b140eaa1dc29">
+
+Then, click the "Add" button. This will bring up a dropdown menu of options. Click "Create New Repository." A box will pop up asking for information, such as what you would like to name your repository. Fill these things out and click "Create Repository."
+
+
+## 3. You have a folder of files on your computer that you want to make into a repository
+Open GitHub Desktop. Then click the box in the top right corner that says "Current Repository." A side bar should then come up as so:
+
+<img width="1142" alt="Screen Shot 2023-06-05 at 1 00 56 PM" src="https://github.com/Harvard-Forest-Ecosystems/How-to-Use-Github/assets/70771598/749c799b-f463-4a2f-8ee3-b140eaa1dc29">
+
+Then, click the "Add" button. This will bring up a dropdown menu of options. Click "Add Existing Repository." Navigate to the folder with your files in it.
