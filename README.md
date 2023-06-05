@@ -48,9 +48,13 @@ Open GitHub Desktop. Then click the box in the top right corner that says "Curre
 Then, click the "Add" button. This will bring up a dropdown menu of options. Click "Create New Repository." A box will pop up asking for information, such as what you would like to name your repository. Fill these things out and click "Create Repository."
 
 
-## 3. You have a folder of files on your computer that you want to make into a repository
+## 3. You have a GitHub repository on your local computer
+To be honest, if this is your first time using GitHub, this should not apply to you. But for those of you curious:
+
 Open GitHub Desktop. Then click the box in the top right corner that says "Current Repository." A side bar should then come up as so:
 
 <img width="1142" alt="Screen Shot 2023-06-05 at 1 00 56 PM" src="https://github.com/Harvard-Forest-Ecosystems/How-to-Use-Github/assets/70771598/749c799b-f463-4a2f-8ee3-b140eaa1dc29">
 
-Then, click the "Add" button. This will bring up a dropdown menu of options. Click "Add Existing Repository." Navigate to the folder with your files in it.
+Then, click the "Add" button. This will bring up a dropdown menu of options. Click "Add Existing Repository." Navigate to the folder with your files in it. This folder has to be a GitHub repository!!! Otherwise, it will just tell you that it's not a repository.
+
+
